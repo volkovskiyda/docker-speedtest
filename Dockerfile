@@ -1,4 +1,4 @@
-FROM python
+FROM python:alpine
 
 LABEL org.opencontainers.image.source=https://github.com/volkovskiyda/docker-speedtest
 
