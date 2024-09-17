@@ -14,8 +14,6 @@ docker run --rm ghcr.io/volkovskiyda/speedtest
 ```bash
 docker run -it --rm --entrypoint bash ghcr.io/volkovskiyda/speedtest
 > python speedtest.py
-# or
-> bash run.sh
 ```
 
 ### **Speedtest cli help:**
